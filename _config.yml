@@ -1,1 +1,4 @@
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+remote_theme: BlackrockDigital/startbootstrap-clean-blog-jekyll
+title: Philip's Blog
+description: This is where I play with stuffs
